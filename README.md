@@ -1,2 +1,6 @@
-# cprogrammingpractice5-1
-`first repository project
+#include <stdio.h>
+
+int main()
+{
+  
+}
